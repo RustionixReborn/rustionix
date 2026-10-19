@@ -1,12 +1,12 @@
 [
   {
-    "pictureurl": "https://example.com/images/photo1.jpg",
-    "textonblock": "Краткий текст для первого небольшого блока.",
-    "textonbigblock": "Развернутый текст для первого большого блока, который может содержать подробное описание, инструкции или ссылки."
+    "pictureurl": "https://i.ibb.co/NcM7Qm8/image.jpg",
+    "textonblock": "MineLauncher Релиз",
+    "textonbigblock": "Актуальный "
   },
   {
-    "pictureurl": "https://example.com/images/photo2.jpg",
-    "textonblock": "Краткий текст для второго небольшого блока.",
+    "pictureurl": "https://i.ibb.co/svnDXMv4/Minecraft-wallpaper.jpg",
+    "textonblock": "Тестовая",
     "textonbigblock": "Развернутый текст для второго большого блока, который может содержать подробное описание, инструкции или ссылки."
   }
 ]
